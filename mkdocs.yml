@@ -1,0 +1,136 @@
+# 1. Información del Taller
+site_name: Autocaravana inteligente
+site_description: Se trata de documentar el kit de Keyestudio KS0507 Smart RV que contiene todo lo necesario para disponer de una autocaravana inteligente en miniatura con la que aprender programación, que en nuestro caso haremos con ArduinoBlocks. El propio kit dispone de todas las herramientas y elementos necesarios para su montaje.
+site_author: Federico Coca
+site_url: https://fgcoca.github.io/Autocaravana-inteligente/
+
+# 2. Repositorio
+repo_name: fgcoca/Autocaravana-inteligente
+repo_url: https://github.com/fgcoca/Autocaravana-inteligente
+edit_uri: ""
+
+# 3. Copyright
+copyright: Copyright &copy; 2020 - 2025 Federico Coca
+
+# 4. RRSS
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/fgcoca
+      name: Twitter de Federico Coca
+    - icon: fontawesome/brands/github
+      link: https://github.com/fgcoca
+      name: Github de Federico Coca
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/cocafederico/?hl=es
+      name: Instagram de Federico Coca
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/clubroboticagra
+      name: Twitter de Club Robótica Granada 
+
+# 5. Navegación
+nav:
+  - Introducción: index.md 
+  - Materiales y ensamblado: 
+    - Preliminar: preliminar.md
+    - Parte 1. Tableros B y H: parte1.md
+    - Parte 2. Tableros A e I: parte2.md
+    - Parte 3. Tablero K: parte3.md
+    - Parte 4. Tablero L: parte4.md
+    - Parte 5. Tableros N y O: parte5.md
+    - Parte 6. Tableros M y E: parte6.md
+    - Parte 7. Tablero C: parte7.md
+    - Montaje de las partes: montaje.md
+    - Conexionado: conex.md
+  - Teoría general: 
+    - Software: soft.md
+    - Operadores en C++: operadores.md
+    - Teoría básica de IoT: IoT_basico.md
+  - Teoría para las actividades:
+    - Introducción: Tactividades/intro.md
+    - El diodo LED: Tactividades/T_LED.md
+    - El diodo LED RGB: Tactividades/T_RGB.md
+    - Botón pulsador: Tactividades/T_pulsador.md
+    - LEDs RGB direccionables: Tactividades/T_neo.md
+  - Desarrollo de las actividades:
+    - El diodo LED: actividades/A_LED.md
+    - El diodo LED RGB: actividades/A_RGB.md
+    - Botón pulsador: actividades/A_pulsador.md
+    - LEDs RGB direccionables: actividades/A_neo.md
+  - Miscelanea:
+    - Autor: Miscelanea/about.md 
+    - Licencias: Miscelanea/lic.md
+    - Webgrafia/Bibliografía: Miscelanea/webgrafia.md
+    - Software utilizado: Miscelanea/soft.md
+
+# 6. Google Analytics  
+#google_analytics:
+#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+#  - auto
+
+# 7. Configuración del tema
+theme:
+  name: material
+  # Color - Fuentes - Lenguaje
+  palette:
+    primary: light blue
+    accent: deep purple 
+  font:
+    text: Roboto 
+    code: Roboto Mono 
+  logo: img/favicon.png 
+  favicon: img/favicon.png 
+  language: es
+  extra:
+    search:
+      language: es, en
+  # Página 404
+  static_templates:
+    - 404.html
+  # No incluir los JavaScript de MkDocs
+  #include_search_page: false
+  #search_index_only: true
+
+# 8. Extensiones
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      linenums: true
+      # guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# 9. Necesario para la extensión pydownx.arithmatex
+extra_javascript:
+  # Este fichero es opcional y solo si se quiere sobreescribir la configuracion del plugin
+  #- js/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+
+# 10. Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
