@@ -23,7 +23,7 @@ Vamos pasando uno a uno los cables de los motores por el orificio circular de la
 </center>
 
 ## <FONT COLOR=#007575>**Amplificador**</font>
-El amplificador va conectado al pin digital D4 según el esquema siguiente:
+El amplificador va conectado al pin digital D49 según el esquema siguiente:
 
 <center>
 
@@ -33,7 +33,7 @@ El amplificador va conectado al pin digital D4 según el esquema siguiente:
 
 </center>
 
-Pasamos el cable hacia la placa de control y lo conectamos en el pin D4 teniendo precaución de respetar la polaridad, tal y como vemos en la figura siguiente:
+Pasamos el cable hacia la placa de control y lo conectamos en el pin D49 teniendo precaución de respetar la polaridad, tal y como vemos en la figura siguiente:
 
 <center>
 

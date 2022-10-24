@@ -51,11 +51,15 @@ nav:
     - El diodo LED: Tactividades/T_LED.md
     - El diodo LED RGB: Tactividades/T_RGB.md
     - Botón pulsador: Tactividades/T_pulsador.md
+    - Teclado matricial de 4x4: Tactividades/T_teclado.md
+    - Módulo amplificador: Tactividades/T_sonido.md
     - LEDs RGB direccionables: Tactividades/T_neo.md
   - Desarrollo de las actividades:
     - El diodo LED: actividades/A_LED.md
     - El diodo LED RGB: actividades/A_RGB.md
     - Botón pulsador: actividades/A_pulsador.md
+    - Teclado matricial de 4x4: actividades/A_teclado.md
+    - Módulo amplificador: actividades/A_sonido.md
     - LEDs RGB direccionables: actividades/A_neo.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
@@ -63,12 +67,12 @@ nav:
     - Webgrafia/Bibliografía: Miscelanea/webgrafia.md
     - Software utilizado: Miscelanea/soft.md
 
-# 6. Google Analytics  
+# 6. Google Analytics  - Teclado matricial de 4x4: Tactividades/T_teclado.md
 #google_analytics:
 #  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
 #  - auto
 
-# 7. Configuración del tema
+# 7. Configuración del tema 
 theme:
   name: material
   # Color - Fuentes - Lenguaje
