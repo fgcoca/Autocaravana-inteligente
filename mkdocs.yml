@@ -53,6 +53,12 @@ nav:
     - Botón pulsador: Tactividades/T_pulsador.md
     - Teclado matricial de 4x4: Tactividades/T_teclado.md
     - Módulo amplificador: Tactividades/T_sonido.md
+    - Sensor de movimiento PIR: Tactividades/T_PIR.md
+    - Pantalla LCD I2C: Tactividades/T_LCD.md
+    - Sensor DHTxx: Tactividades/T_DHTxx.md
+    - El potenciómetro: Tactividades/T_poten.md
+    - Sensor de luz ambiental: Tactividades/T_TEMT6000.md
+    - Sensor de vapor (steam): Tactividades/T_vapor.md
     - LEDs RGB direccionables: Tactividades/T_neo.md
   - Desarrollo de las actividades:
     - El diodo LED: actividades/A_LED.md
@@ -60,6 +66,12 @@ nav:
     - Botón pulsador: actividades/A_pulsador.md
     - Teclado matricial de 4x4: actividades/A_teclado.md
     - Módulo amplificador: actividades/A_sonido.md
+    - Sensor de movimiento PIR: actividades/A_PIR.md
+    - Pantalla LCD I2C: actividades/A_LCD.md
+    - Sensor DHTxx: actividades/A_DHTxx.md
+    - El potenciómetro: actividades/A_poten.md
+    - Sensor de luz ambiental: actividades/A_TEMT6000.md
+    - Sensor de vapor (steam): actividades/A_vapor.md
     - LEDs RGB direccionables: actividades/A_neo.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
@@ -67,7 +79,7 @@ nav:
     - Webgrafia/Bibliografía: Miscelanea/webgrafia.md
     - Software utilizado: Miscelanea/soft.md
 
-# 6. Google Analytics  - Teclado matricial de 4x4: Tactividades/T_teclado.md
+# 6. Google Analytics   
 #google_analytics:
 #  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
 #  - auto

@@ -22,7 +22,7 @@ Reproducir las notas La (440 Hz), Mi (330 Hz) y Do (262 Hz) utilizando el bloque
 
 </center>
 
-## <FONT COLOR=#007575>**Actividad A014**</font>
+## <FONT COLOR=#007575>**Actividad A015**</font>
 Reproducir la introducción de Donkey Kong a partir del dato de la teoría. El programa final queda como vemos en la figura siguiente y lo tenemos disponible en el enlace [Actividad MH-A015](../programas/MH-A015.abp).
 
 <center>
@@ -33,7 +33,7 @@ Reproducir la introducción de Donkey Kong a partir del dato de la teoría. El p
 
 </center>
 
-## <FONT COLOR=#007575>**Actividad A015**</font>
+## <FONT COLOR=#007575>**Actividad A016**</font>
 Reproducir tres de las melodías incluidas en ArduinoBlocks. El programa final queda como vemos en la figura siguiente y lo tenemos disponible en el enlace [Actividad MH-A016](../programas/MH-A016.abp).
 
 <center>

@@ -1,6 +1,6 @@
 # <FONT COLOR=#8B008B>El teclado matricial de 4x4</font>
 
-## <FONT COLOR=#007575>**Conceptos de programación incluidos**</font>
+## <FONT COLOR=#007575>**Conceptos incluidos**</font>
 
 <font color=#FF00FF><b><font size=5>
 
