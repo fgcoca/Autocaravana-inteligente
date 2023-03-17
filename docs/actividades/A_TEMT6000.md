@@ -33,4 +33,14 @@ Implementar el encendido automático del LED interior cuando el nivel de ilumina
 ## <FONT COLOR=#007575>Propuestas</font>
 
 * Repetir la actividad A026 mostrando los valores en la LCD.
+<center>
+
+![Consola A028](../img/actividades/A028C.png)
+
+*Consola A028*
+
+</center>
+
+## <FONT COLOR=#007575>**Actividad A029**</font>
+Leer y mostrar en la consola seri
 * Repetir la actividad A027 trabajando con porcentajes.

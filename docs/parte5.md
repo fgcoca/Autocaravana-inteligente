@@ -99,3 +99,37 @@ En la figura siguiente vemos en detalle el montaje del servo.
 *Detalles del montaje del tablero B*
 
 </center>
+
+## <FONT COLOR=#007575>**Mejora**</font>
+Al estar el engranaje y la cremallera en uno solo de los listones guía del techo corredizo es muy probable que cuando intenta realizar movimientos se gire un poco y esto impida que de deslice correctamente. Corregir esto solamente con las tuercas es muy complicado, o al menos yo no lo he conseguido hacer de forma correcta, pero tenemos disponibles dos agujeros (marcados en la figura siguiente) que junto con el material que vamos a indicar seguidamente nos permiten corregir este problema de una forma sencilla.
+
+<center>
+
+![Detalles de los agujeros en el tablero N](./img/material/parte5/Agujeros_TablNO.png)
+
+*Detalles de los agujeros en el tablero N*
+
+</center>
+
+El material que vamos a necesitar es el siguiente:
+
+<center><font size=2>
+
+| N. | Cantidad | Imagen | Descripción |
+|:-:|:-:|:-:|---|
+| 1 | 2 | ![Separadores o columnas de plástico ABS](./img/material/tornillos/separador.png) | Separadores o columnas de plástico ABS |
+| 2 | 2 | ![Tornillos cabeza redonda M3x10mm](./img/material/tornillos/TM3x8.png) | Tornillos cabeza redonda M3x10mm |
+| 3 | 2 | ![Tuercas M3](./img/material/tornillos/M3.png) | Tuercas M3 |
+| 18 | 1 | ![Destornillador 3.0x40mm](./img/material/dest3.png) | Destornillador 3.0x40mm |
+
+</font size></center>
+
+El resultado final lo podemos apreciar en la figura siguiente:
+
+<center>
+
+![Detalles de la mejora](./img/material/parte5/mejora_TablNO.png)
+
+*Detalles de la mejora*
+
+</center>
