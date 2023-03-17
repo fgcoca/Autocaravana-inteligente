@@ -2,217 +2,282 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/IoT_basico/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/conex/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/montaje/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/operadores/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/parte1/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/parte2/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/parte3/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/parte4/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/parte5/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/parte6/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/parte7/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/preliminar/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/soft/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Comunicaciones/APP/</loc>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Comunicaciones/BT/</loc>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Comunicaciones/serie/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Miscelanea/about/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Miscelanea/lic/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Miscelanea/soft/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Miscelanea/webgrafia/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_DHTxx/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_LCD/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_LED/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_PIR/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_RGB/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_TEMT6000/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_gas/</loc>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_motor/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_neo/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_poten/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_pulsador/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_servo/</loc>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_sigue/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_sonido/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_teclado/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_us/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/T_vapor/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/Tactividades/intro/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_DHTxx/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_LCD/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_LED/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_PIR/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_RGB/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_TEMT6000/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_gas/</loc>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_motor/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_neo/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_poten/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_pulsador/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_servo/</loc>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_sigue/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_sonido/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_teclado/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_us/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fgcoca.github.io/Autocaravana-inteligente/actividades/A_vapor/</loc>
-         <lastmod>2022-11-15</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
